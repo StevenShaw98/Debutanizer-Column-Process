@@ -39,4 +39,5 @@ Online composition monitoring of the debutanizer column outlet streams is highly
 
 
 ## 📚 References
-L. Fortuna, S. Graziani, and M. Xibilia, “Soft sensors for product quality monitoring in debutanizer distillation columns,” Control Engineering Practice, vol. 13, DOI 10.1016/j.conengprac.2004.04.013.
+L. Fortuna, S. Graziani, and M. Xibilia, “Soft sensors for product quality monitoring in debutanizer distillation columns,” Control Engineering Practice, vol. 13, DOI 10.1016/j.conengprac.2004.04.013, no. 4, pp. 499–
+508, 2005.
